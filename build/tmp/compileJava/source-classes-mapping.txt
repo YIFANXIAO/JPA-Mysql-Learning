@@ -1,0 +1,11 @@
+com/example/demo/entity/Student.java
+ com.example.demo.entity.Student
+ com.example.demo.entity.Student$StudentBuilder
+com/example/demo/service/StudentService.java
+ com.example.demo.service.StudentService
+com/example/demo/repository/StudentRepository.java
+ com.example.demo.repository.StudentRepository
+com/example/demo/JPAMysqlLearningApplication.java
+ com.example.demo.JPAMysqlLearningApplication
+com/example/demo/api/StudentController.java
+ com.example.demo.api.StudentController
